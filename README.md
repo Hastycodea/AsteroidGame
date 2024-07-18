@@ -58,10 +58,3 @@ When an asteroid is hit by a projectile, both the asteroid and the projectile ar
 
 The game continues indefinitely with new asteroids spawning randomly.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
-
-Feel free to modify any section according to your specific setup or preferences.
